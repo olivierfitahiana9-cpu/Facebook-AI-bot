@@ -1,0 +1,17 @@
+{
+  "name": "olivier-ai-messenger-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Olivier AI Facebook Page Messenger bot using Groq API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.17.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
